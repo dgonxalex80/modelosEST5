@@ -1,0 +1,20 @@
+name: "Modelo de Regresión"
+output_dir: "docs"
+navbar:
+  title: "Modelos Estadísticos para la toma de decisiones"
+  left:
+    - text: "Conceptos básicos"
+      menu:
+        - text: "Conceptos"
+          href: recurso000.html
+    - text: "Supuestos"
+      menu:
+        - text: "Supuestos del modelo"
+          href: recurso000.html
+    - text: "Inferencia"
+      menu:
+        - text: "Inferencia en el modelo de Regresión Lineal"
+          href: recurso000.html          
+output:
+  html_document:
+    css: style.css
